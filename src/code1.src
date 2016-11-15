@@ -1,3 +1,6 @@
+Function echoMinusOne(zyx) {
+  echo zyx -1;
+}
 Function getAge() {
  return age-15;
 }

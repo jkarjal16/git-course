@@ -1,5 +1,5 @@
-Function echoMinusOne(zyx) {
-  echo zyx -1;
+Function echoPlusOne(xyz) {
+  echo xyz + 1;
 }
 Function getAge() {
  return age-15;

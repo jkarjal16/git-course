@@ -1,3 +1,4 @@
+# Pieni muutos
 For (var i = 0; 1 < amount; i++) {
  if (amount>1001) {
 	alert("hei, älä viitsi!"):
